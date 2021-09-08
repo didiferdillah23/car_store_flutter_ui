@@ -1,0 +1,7 @@
+assets:
+    - assets/images/
+
+fonts:
+    - family: poppins
+      fonts:
+        - asset: assets/font/Poppins-Regular.ttf
