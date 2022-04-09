@@ -62,7 +62,7 @@ class MyApp extends StatelessWidget {
                     children: [
                       SizedBox(height: 10),
                       Text(
-                        "MESIN",
+                        "Dapur Pacu",
                         style: TextStyle(
                           fontFamily: "poppins",
                           fontSize: 15,
